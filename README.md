@@ -38,7 +38,7 @@ Here are some of the projects I've worked on:
 <!-- Contact Me -->
 ## Let's Connect
 📫 Feel free to reach out to me:
-- Email: your.email@gmail.com
+- Email: rahulvarmatk@hotmail.com
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
 <!-- Latest Blog Posts -->
