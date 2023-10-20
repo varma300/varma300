@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-[![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varma300&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Contact Me -->
 ## Let's Connect
